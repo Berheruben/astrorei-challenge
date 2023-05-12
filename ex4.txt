@@ -1,0 +1,18 @@
+Soluzione 1:
+
+Stack tecnologico frontend: React Native per l'app mobile e React per la web-app
+Stack tecnologico backend: Node.js per il server e Express.js come framework web
+Database: MongoDB
+Hosting: Amazon Web Services (AWS) per il cloud hosting
+Strumenti di sviluppo: Visual Studio Code come IDE, Git per la gestione del versionamento del codice
+Per quanto riguarda la raccolta dei dati, un web-scraper può essere utilizzato per recuperare i dati dal sito web del negozio e il portale dedicato ai negozianti per consentire ai negozianti di aggiornare i loro dati, prodotti e disponibilità.
+
+Soluzione 2:
+
+Stack tecnologico frontend: Flutter per l'app mobile e Angular per la web-app
+Stack tecnologico backend: Firebase per il server e il framework web Firebase Cloud Functions
+Database: Firestore
+Hosting: Google Cloud Platform (GCP) per il cloud hosting
+Strumenti di sviluppo: Android Studio per lo sviluppo di app Android, Xcode per lo sviluppo di app iOS, Visual Studio Code come IDE, Git per la gestione del versionamento del codice
+Per quanto riguarda la raccolta dei dati, un web-scraper può essere utilizzato per recuperare i dati dal sito web del negozio e il portale dedicato ai negozianti per consentire ai negozianti di aggiornare i loro dati, prodotti e disponibilità.
+
